@@ -1,3 +1,2 @@
-/*
 $("#main").append("Charlie abc");
- */
+
